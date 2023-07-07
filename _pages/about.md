@@ -27,7 +27,7 @@ Education
 2016.09-2022.01, Harbin Institute of Technology,	Computer Software and Theory,	Ph.D., Supervisor: Prof. Hong Gao<br/>
 2015.09-2016.07, Harbin Institute of Technology, Computer Software and Theory, Master, Supervisor: Prof. Hong Gao<br/>
 2011.09-2015.07, Harbin Institute of Technology,	Computer Science and Technology,	Bachelor <br/>
-2023.01-2023.03, The Chinese University of Hong Kong, Department of Systems Engineering and Engineering Management, Prof. Jeffrey Xu Yu
+<!--2023.01-2023.03, The Chinese University of Hong Kong, Department of Systems Engineering and Engineering Management, Prof. Jeffrey Xu Yu-->
 
 
 
