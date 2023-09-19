@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor (助理教授、硕士生导师) in the School of Computer Science and Technology, Shandong University. <br/>
+I am currently an Assistant Professor in the School of Computer Science and Technology, Shandong University. <br/>
 E-mail: xrwang@sdu.edu.cn<br/>
 Address: Binhai Road No.72, Jimo District, Qingdao, Shandong, China.
 
