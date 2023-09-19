@@ -28,13 +28,6 @@ Research Interests
 - <span style="background-color:rgb(100,200,200,0.5)">Big data</span>
   - Compression, sampling, approximation algorithms for big graph, time series data (时序数据) et. al.
 
-
-Projects
-------
-1. 大规模动态信息网社团搜索和分析算法研究，国家自然科学基金青年项目，主持，2023.01-2025.12
-2. 大数据一致性管理的计算复杂性与亚线性算法，国家自然科学基金面上项目, 参与，2020.01-2023.12
-
-
 Education
 ------
 - 2016.09-2022.01, Harbin Institute of Technology,	Computer Software and Theory,	Ph.D., Supervisor: Prof. Hong Gao<br/>
@@ -46,11 +39,11 @@ Professional Experience
 - 2022.02-Now, Assistant Professor, School of Computer Science and Technology, Shandong University<br/>
 - 2023.01-2023.03, Visiting Scholar, Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong,  Prof. Jeffrey Xu Yu<br/>
 
-Teaching
+Projects
 ------
-- Data structures and algorithms, Fall 2022-2023
-- Advanced machine learning, Fall 2023
-
+1. 大规模动态信息网社团搜索和分析算法研究，国家自然科学基金青年项目，主持，2023.01-2025.12
+2. 大数据一致性管理的计算复杂性与亚线性算法，国家自然科学基金面上项目, 参与，2020.01-2023.12
+   
 Selected Publications
 ------
 1. **Xinrui Wang**, Hong Gao, Zhipeng Cai, Jianzhong Li. Who should deserve investment? Attractive individual and group search in dynamic information networks. (IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2021.3099102)CCF-A Journal，SCI IF=6.977, JCR Q1
@@ -68,6 +61,11 @@ Honor & Scholarship
 - First class scholarship for exempt students of HIT（哈尔滨工业大学推免生一等奖学金）<br/>
 - National Scholarship（研究生国家奖学金）<br/>
 - "Guorui Scholarship" of the 14th Institute of CETC（中国电科十四所“国睿奖学金”）
+
+Teaching
+------
+- Data structures and algorithms, Fall 2022-2023
+- Advanced machine learning, Fall 2023
 
 
 
