@@ -18,17 +18,14 @@ Address: Binhai Road No.72, Jimo District, Qingdao, Shandong, China.
 
 Research Interests
 ======
-- Graph data mining and analysis (==图数据挖掘与分析==，注：图数据是数据结构中的“图”，不是图像！)
-- <span style="background-color:rgb(100,200,200,0.5)">highlight 3</span>
-<mark>highlight 2</mark>
-  
-  Community search, clustering algorithms, vertex sorting, link prediction, influence maximization et. al.
-  
-  GNN (图神经网络), graph embedding et. al.
+<!--<span style="background-color:rgb(100,200,200,0.5)">highlight 3</span>-->
+<!--<mark>highlight 2</mark>-->
+- <span style="background-color:rgb(100,200,200,0.5)">Graph data mining and analysis</span>(注：图数据是数据结构中的“图”，不是图像！)
+  - Community search, clustering algorithms, vertex sorting, link prediction, influence maximization et. al.
+  - GNN (图神经网络), graph embedding et. al.
 
-- Big data (大数据)
-  
-  Compression, sampling, approximation algorithms for big graph, time series data (时序数据) et. al.
+- Big data
+  - Compression, sampling, approximation algorithms for big graph, time series data (时序数据) et. al.
 
 
 Projects
