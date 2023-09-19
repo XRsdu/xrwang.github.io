@@ -20,11 +20,11 @@ Research Interests
 ======
 <!--<span style="background-color:rgb(100,200,200,0.5)">highlight 3</span>-->
 <!--<mark>highlight 2</mark>-->
-- <span style="background-color:rgb(100,200,200,0.5)">Graph data mining and analysis</span>(注：图数据是数据结构中的“图”，不是图像！)
+- <span style="background-color:rgb(100,200,200,0.5)">Graph data mining and analysis</span> (注：图数据是数据结构中的“图”，不是图像！)
   - Community search, clustering algorithms, vertex sorting, link prediction, influence maximization et. al.
   - GNN (图神经网络), graph embedding et. al.
 
-- Big data
+- <span style="background-color:rgb(100,200,200,0.5)">Big data</span>
   - Compression, sampling, approximation algorithms for big graph, time series data (时序数据) et. al.
 
 
