@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the School of Computer Science and Technology, Shandong University. <br/>
+I am currently an Assistant Professor (助理教授、硕士生导师) in the School of Computer Science and Technology, Shandong University. <br/>
 E-mail: xrwang@sdu.edu.cn<br/>
 Address: Binhai Road No.72, Jimo District, Qingdao, Shandong, China.
 
@@ -31,9 +31,9 @@ Research Interests
 
 Education
 ------
-- 2016.09-2022.01, Harbin Institute of Technology,	Computer Software and Theory,	Ph.D., Supervisor: Prof. Hong Gao (高宏 教授)<br/>
-- 2015.09-2016.07, Harbin Institute of Technology, Computer Software and Theory, Master, Supervisor: Prof. Hong Gao (高宏 教授)<br/>
-- 2011.09-2015.07, Harbin Institute of Technology,	Computer Science and Technology,	Bachelor <br/>
+- 2016.09-2022.01, Harbin Institute of Technology (哈尔滨工业大学),	Computer Software and Theory,	Ph.D., Supervisor: Prof. Hong Gao (高宏 教授)<br/>
+- 2015.09-2016.07, Harbin Institute of Technology (哈尔滨工业大学), Computer Software and Theory, Master, Supervisor: Prof. Hong Gao (高宏 教授)<br/>
+- 2011.09-2015.07, Harbin Institute of Technology (哈尔滨工业大学),	Computer Science and Technology,	Bachelor <br/>
 
 Professional Experience
 ------
@@ -65,8 +65,8 @@ Honor & Scholarship
 
 Teaching
 ------
-- Data structures and algorithms, Fall 2022-2023
-- Advanced machine learning, Fall 2023
+- Data structures and algorithms (数据结构与算法), 授课对象本科生， Fall 2022-2023
+- Advanced machine learning (高级机器学习), 授课对象硕士、博士研究生， Fall 2023
 
 
 
