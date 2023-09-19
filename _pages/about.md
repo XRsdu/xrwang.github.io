@@ -12,7 +12,7 @@ I am currently an Assistant Professor in the School of Computer Science and Tech
 E-mail: xrwang@sdu.edu.cn<br/>
 Address: Binhai Road No.72, Jimo District, Qingdao, Shandong, China.
 
-招收对图数据分析、大数据、图神经网络感兴趣的硕士研究生和大二、大三年级本科生，要求能坐得住板凳、爱思考，肯动手编程实践。**在一切都很快速的时代，如果你愿意静下心和我一起花费半年、一年甚至更长的时间，从科研入门到沉淀出高质量的论文，请一定发邮件联系我！**天分和基础不重要，兴趣和努力是通往成功的关键。
+招收对图数据分析、大数据、图神经网络感兴趣的硕士研究生和大二、大三年级本科生，要求能坐得住板凳、爱思考，肯动手编程实践。**在一切都很快速的时代，如果你愿意静下心和我一起花费一年甚至更长的时间，从科研入门到沉淀出高质量的论文，请一定发邮件联系我！**
 
 
 
@@ -43,13 +43,18 @@ Professional Experience
 - 2022.02-Now, Assistant Professor, School of Computer Science and Technology, Shandong University<br/>
 - 2023.01-2023.03, Visiting Scholar, Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong,  Prof. Jeffrey Xu Yu<br/>
 
-
+Teaching
+======
+- Data structures and algorithms, Fall 2022-2023
+- Advanced machine learning, Fall 2023
 
 Selected Publications
 ------
-<!--1. Xinrui Wang, Hong Gao, Zhipeng Cai, Jianzhong Li. Who should deserve investment? Attractive individual and group search in dynamic information networks. (IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2021.3099102)CCF-A Journal，SCI IF=6.977, JCR Q1-->  
-<!--2. Xinrui Wang, Hong Gao, Zhipeng Cai, Jianzhong Li. Leave or not leave? Group members’ departure prediction in dynamic information networks[J]. Information Sciences, 2021, 569: 138-156. SCI IF=6.795, JCR Q1--> 
-<!--3. Xinrui Wang, Hong Gao, et al. Detecting top-k active inter-community jumpers in dynamic information networks[C]//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2018: 538-546. CCF-B Conference--> 
+1. **Xinrui Wang**, Hong Gao, Zhipeng Cai, Jianzhong Li. Who should deserve investment? Attractive individual and group search in dynamic information networks. (IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2021.3099102)CCF-A Journal，SCI IF=6.977, JCR Q1
+2. **Xinrui Wang**, Hong Gao, Zhipeng Cai, Jianzhong Li. Leave or not leave? Group members’ departure prediction in dynamic information networks[J]. Information Sciences, 2021, 569: 138-156. SCI IF=6.795, JCR Q1
+3. **Xinrui Wang**, Hong Gao, et al. Detecting top-k active inter-community jumpers in dynamic information networks[C]//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2018: 538-546. CCF-B Conference
+4. **Xinrui Wang**, Hong Gao, Zhipeng Cai, Jianzhong Li. Who Should Deserve Investment? Attractive Individual and Group Search in Dynamic Information Networks (Extended Abstract).
+(IEEE 38th International Conference on Data Engineering (ICDE), 2022: 1481-1482. CCF-A Conference
 <!--4. Xinrui Wang, Hong Gao, Zhipeng Cai, Jianzhong Li. Who Should Deserve Investment? Attractive Individual and Group Search in Dynamic Information Networks (Extended Abstract).
 (IEEE 38th International Conference on Data Engineering (ICDE), 2022: 1481-1482. CCF-A Conference--> 
 
