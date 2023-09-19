@@ -27,7 +27,7 @@ Research Interests
 - <span style="background-color:rgb(100,200,200,0.5)">Big data (大数据)</span>
   - Compression, sampling, approximation algorithms for big graph, time series data (时序数据) et. al.
 
-<mark>(注：图数据是数据结构中的“图”，不是图像！)</mark>
+&emsp<mark>(注：图数据是数据结构中的“图”，不是图像！)</mark>
 
 Education
 ------
