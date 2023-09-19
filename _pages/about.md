@@ -17,7 +17,8 @@ Address: Binhai Road No.72, Jimo District, Qingdao, Shandong, China.
 
 
 Research Interests
-======
+------
+<!--======-->
 <!--<span style="background-color:rgb(100,200,200,0.5)">highlight 3</span>-->
 <!--<mark>highlight 2</mark>-->
 - <span style="background-color:rgb(100,200,200,0.5)">Graph data mining and analysis</span> (注：图数据是数据结构中的“图”，不是图像！)
@@ -29,24 +30,24 @@ Research Interests
 
 
 Projects
-======
+------
 1. 大规模动态信息网社团搜索和分析算法研究，国家自然科学基金青年项目，主持，2023.01-2025.12
 2. 大数据一致性管理的计算复杂性与亚线性算法，国家自然科学基金面上项目, 参与，2020.01-2023.12
 
 
 Education
-======
+------
 - 2016.09-2022.01, Harbin Institute of Technology,	Computer Software and Theory,	Ph.D., Supervisor: Prof. Hong Gao<br/>
 - 2015.09-2016.07, Harbin Institute of Technology, Computer Software and Theory, Master, Supervisor: Prof. Hong Gao<br/>
 - 2011.09-2015.07, Harbin Institute of Technology,	Computer Science and Technology,	Bachelor <br/>
 
 Professional Experience
-======
+------
 - 2022.02-Now, Assistant Professor, School of Computer Science and Technology, Shandong University<br/>
 - 2023.01-2023.03, Visiting Scholar, Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong,  Prof. Jeffrey Xu Yu<br/>
 
 Teaching
-======
+------
 - Data structures and algorithms, Fall 2022-2023
 - Advanced machine learning, Fall 2023
 
