@@ -18,12 +18,17 @@ Address: Binhai Road No.72, Jimo District, Qingdao, Shandong, China.
 
 Research Interests
 ======
-- Graph data mining and analysis (图数据挖掘与分析，注：图数据是数据结构中的“图”，不是图像！)
-   - Community search, clustering algorithms, vertex sorting, link prediction, influence maximization et. al.
-   - GNN (图神经网络), graph embedding et. al.
+- Graph data mining and analysis (==图数据挖掘与分析==，注：图数据是数据结构中的“图”，不是图像！)
+- <span style="background-color:rgb(100,200,200,0.5)">highlight 3</span>
+<mark>highlight 2</mark>
+  
+  Community search, clustering algorithms, vertex sorting, link prediction, influence maximization et. al.
+  
+  GNN (图神经网络), graph embedding et. al.
 
 - Big data (大数据)
-   - Compression, sampling, approximation algorithms for big graph, time series data (时序数据) et. al.
+  
+  Compression, sampling, approximation algorithms for big graph, time series data (时序数据) et. al.
 
 
 Projects
@@ -60,11 +65,11 @@ Selected Publications
 
 Honor & Scholarship
 ------
-2014 CCF outstanding college student award（2014年度“CCF优秀大学生奖”）<br/>
-Excellent Graduate of HIT（哈尔滨工业大学优秀毕业生）<br/>
-First class scholarship for exempt students of HIT（哈尔滨工业大学推免生一等奖学金）<br/>
-National Scholarship（研究生国家奖学金）<br/>
-"Guorui Scholarship" of the 14th Institute of CETC（中国电科十四所“国睿奖学金”）
+- 2014 CCF outstanding college student award（2014年度“CCF优秀大学生奖”）<br/>
+- Excellent Graduate of HIT（哈尔滨工业大学优秀毕业生）<br/>
+- First class scholarship for exempt students of HIT（哈尔滨工业大学推免生一等奖学金）<br/>
+- National Scholarship（研究生国家奖学金）<br/>
+- "Guorui Scholarship" of the 14th Institute of CETC（中国电科十四所“国睿奖学金”）
 
 
 
