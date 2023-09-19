@@ -12,7 +12,7 @@ I am currently an Assistant Professor in the School of Computer Science and Tech
 E-mail: xrwang@sdu.edu.cn<br/>
 Address: Binhai Road No.72, Jimo District, Qingdao, Shandong, China.
 
-招收对图数据挖掘与分析(注：图数据是数据结构中的“图”，不是图像！)、大数据、图神经网络感兴趣的硕士研究生和大二、大三年级本科生，要求能坐得住板凳、爱思考，肯动手编程实践。科研成果优秀的本科生可帮忙推荐至香港中文大学、香港浸会大学读博。**在一切都很快速的时代，如果你愿意静下心和我一起花费一年甚至更长的时间，从科研入门到沉淀出高质量的论文，请一定发邮件联系我！**
+招收对图数据挖掘与分析、大数据、图神经网络感兴趣的硕士研究生和大二、大三年级本科生，要求能坐得住板凳、爱思考，肯动手编程实践。科研成果优秀的本科生可帮忙推荐至香港中文大学、香港浸会大学读博。**在一切都很快速的时代，如果你愿意静下心和我一起花费一年甚至更长的时间，从科研入门到沉淀出高质量的论文，请一定发邮件联系我！**
 
 
 
@@ -28,6 +28,8 @@ Research Interests
 
 - <span style="background-color:rgb(100,200,200,0.5)">Big data (大数据)</span>
   - Compression, sampling, approximation algorithms for big graph, time series data (时序数据) et. al.
+
+<mark>(注：图数据是数据结构中的“图”，不是图像！)</mark>
 
 Education
 ------
