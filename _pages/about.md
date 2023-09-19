@@ -12,7 +12,9 @@ I am currently an Assistant Professor in the School of Computer Science and Tech
 E-mail: xrwang@sdu.edu.cn<br/>
 Address: Binhai Road No.72, Jimo District, Qingdao, Shandong, China.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+招收对图数据分析、大数据、图神经网络感兴趣的硕士研究生和大二、大三年级本科生，要求能坐得住板凳、爱思考，肯动手编程实践。天分和基础不重要，兴趣和努力是通往成功的关键。**在一切都很快速的时代，如果你愿意静下心和我一起花费半年、一年甚至更长的时间，从科研入门到发表你科研生涯的第一篇高质量论文，请一定发邮件联系我！**
+
+
 
 Research Interests
 ======
