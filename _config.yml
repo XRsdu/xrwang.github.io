@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xinrui Wang"
   avatar           : "photo.jpg"
-  bio              : "(王芯蕊)"
-  location         : "Location"
+  bio              : "王芯蕊"
+  location         : #"Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
