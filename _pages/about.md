@@ -34,29 +34,24 @@ Projects
 
 Education
 ======
-2016.09-2022.01, Harbin Institute of Technology,	Computer Software and Theory,	Ph.D., Supervisor: Prof. Hong Gao<br/>
-2015.09-2016.07, Harbin Institute of Technology, Computer Software and Theory, Master, Supervisor: Prof. Hong Gao<br/>
-2011.09-2015.07, Harbin Institute of Technology,	Computer Science and Technology,	Bachelor <br/>
-2023.01-2023.03, The Chinese University of Hong Kong, Department of Systems Engineering and Engineering Management, Visiting Scholar, Prof. Jeffrey Xu Yu
+- 2016.09-2022.01, Harbin Institute of Technology,	Computer Software and Theory,	Ph.D., Supervisor: Prof. Hong Gao<br/>
+- 2015.09-2016.07, Harbin Institute of Technology, Computer Software and Theory, Master, Supervisor: Prof. Hong Gao<br/>
+- 2011.09-2015.07, Harbin Institute of Technology,	Computer Science and Technology,	Bachelor <br/>
+
+Professional Experience
+======
+- 2022.02-Now, Assistant Professor, School of Computer Science and Technology, Shandong University<br/>
+- 2023.01-2023.03, Visiting Scholar, Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong,  Prof. Jeffrey Xu Yu<br/>
 
 
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Publications
+Selected Publications
 ------
 <!--1. Xinrui Wang, Hong Gao, Zhipeng Cai, Jianzhong Li. Who should deserve investment? Attractive individual and group search in dynamic information networks. (IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2021.3099102)CCF-A Journal，SCI IF=6.977, JCR Q1-->  
 <!--2. Xinrui Wang, Hong Gao, Zhipeng Cai, Jianzhong Li. Leave or not leave? Group members’ departure prediction in dynamic information networks[J]. Information Sciences, 2021, 569: 138-156. SCI IF=6.795, JCR Q1--> 
 <!--3. Xinrui Wang, Hong Gao, et al. Detecting top-k active inter-community jumpers in dynamic information networks[C]//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2018: 538-546. CCF-B Conference--> 
 <!--4. Xinrui Wang, Hong Gao, Zhipeng Cai, Jianzhong Li. Who Should Deserve Investment? Attractive Individual and Group Search in Dynamic Information Networks (Extended Abstract).
 (IEEE 38th International Conference on Data Engineering (ICDE), 2022: 1481-1482. CCF-A Conference--> 
-
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Honor & Scholarship
 ------
