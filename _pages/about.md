@@ -44,7 +44,12 @@ Projects
 ------
 1. 大规模动态信息网社团搜索和分析算法研究，国家自然科学基金青年项目，主持，2023.01-2025.12
 2. 大数据一致性管理的计算复杂性与亚线性算法，国家自然科学基金面上项目, 参与，2020.01-2023.12
-   
+
+News
+------
+1. "Efficient Betweenness Centrality Computation over Large Heterogeneous Information Networks". Xinrui Wang (Shandong University); Wang Yiran (Shandong University，指导的第二个硕士); Xuemin Lin (Shanghai Jiaotong University); Jeffrey Xu Yu (Chinese University of Hong Kong); Hong Gao (Zhejiang Normal University); Xiuzhen Cheng (Shandong University); Dongxiao Yu (Shandong University)* VLDB 2024 (CCF A)
+2. “动态信息网中持续扩展 k-truss 社区序列查找算法” 王芯蕊，姚越（指导的第一个硕士）等，软件学报 2024（CCF T1）
+
 Selected Publications
 ------
 1. **Xinrui Wang**, Hong Gao, Zhipeng Cai, Jianzhong Li. Who should deserve investment? Attractive individual and group search in dynamic information networks. (IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2021.3099102)CCF-A Journal，SCI IF=6.977, JCR Q1
