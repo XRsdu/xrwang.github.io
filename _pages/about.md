@@ -47,8 +47,8 @@ Projects
 
 News
 ------
-1. "Efficient Betweenness Centrality Computation over Large Heterogeneous Information Networks". Xinrui Wang (Shandong University); Wang Yiran (Shandong University，指导的第二个硕士); Xuemin Lin (Shanghai Jiaotong University); Jeffrey Xu Yu (Chinese University of Hong Kong); Hong Gao (Zhejiang Normal University); Xiuzhen Cheng (Shandong University); Dongxiao Yu (Shandong University)* VLDB 2024 (CCF A)
-2. “动态信息网中持续扩展 k-truss 社区序列查找算法” 王芯蕊，姚越（指导的第一个硕士）等，软件学报 2024（CCF T1）
+1. "Efficient Betweenness Centrality Computation over Large Heterogeneous Information Networks". Xinrui Wang (Shandong University); Wang Yiran (Shandong University，指导的第二个硕士); Xuemin Lin (Shanghai Jiaotong University); Jeffrey Xu Yu (Chinese University of Hong Kong); Hong Gao (Zhejiang Normal University); Xiuzhen Cheng (Shandong University); Dongxiao Yu (Shandong University)*. VLDB 2024 (CCF A)
+2. “动态信息网中持续扩展 k-truss 社区序列查找算法”. 王芯蕊，姚越（指导的第一个硕士）,于东晓，高宏，成秀珍. 软件学报 2024（CCF T1）
 
 Selected Publications
 ------
@@ -72,6 +72,7 @@ Teaching
 ------
 - Data structures and algorithms (数据结构与算法), 授课对象本科生， Fall 2022-2023
 - Advanced machine learning (高级机器学习), 授课对象硕士、博士研究生， Fall 2023
+- Data structures and algorithms (数据结构与算法课程设计), 授课对象本科生， Spring 2023-2024
 
 
 
