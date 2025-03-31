@@ -47,7 +47,7 @@ Projects
 
 News
 ------
-1. "With Anchors or Not: Fairness-aware Truss-based Community Search on Attributed Graphs". Xinrui Wang (Shandong University); Zilong Liu (Shandong University，本科三年级); Shixin Ye (Shandong University，本科三年级); Xin Huang (Hong Kong Baptist University); Hong Gao (Zhejiang Normal University); Xiuzhen Cheng (Shandong University); Dongxiao Yu (Shandong University)*. ICDE 2025 (CCF A Conference)
+1. "With Anchors or Not: Fairness-aware Truss-based Community Search on Attributed Graphs". Xinrui Wang (Shandong University); Zilong Liu (Shandong University，本科三年级); Shixin Ye (Shandong University，<span style="background-color:rgb(100,200,200,0.5)">本科三年级</span>); Xin Huang (Hong Kong Baptist University); Hong Gao (Zhejiang Normal University); Xiuzhen Cheng (Shandong University); Dongxiao Yu (Shandong University)*. ICDE 2025 (CCF A Conference)
 2. "Efficient Betweenness Centrality Computation over Large Heterogeneous Information Networks". Xinrui Wang (Shandong University); Wang Yiran (Shandong University，指导的第二个硕士); Xuemin Lin (Shanghai Jiaotong University); Jeffrey Xu Yu (Chinese University of Hong Kong); Hong Gao (Zhejiang Normal University); Xiuzhen Cheng (Shandong University); Dongxiao Yu (Shandong University)*. VLDB 2024 (CCF A Conference)
 3. “动态信息网中持续扩展 k-truss 社区序列查找算法”. 王芯蕊，姚越（指导的第一个硕士）,于东晓，高宏，成秀珍. 软件学报 2024（CCF A 中文期刊）
 
