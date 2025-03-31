@@ -75,6 +75,10 @@ Teaching
 - Advanced machine learning (高级机器学习), 授课对象硕士、博士研究生， Fall 2023
 - Data structures and algorithms (数据结构与算法课程设计), 授课对象本科生， Spring 2023-2024
 
+Academic Position
+------
+CCF数据库专委会执行委员
+
 
 
 
