@@ -53,11 +53,11 @@ News
 
 Selected Publications
 ------
-1. **Xinrui Wang**, Hong Gao, Zhipeng Cai, Jianzhong Li. Who should deserve investment? Attractive individual and group search in dynamic information networks. (IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2021.3099102)CCF-A Journal，SCI IF=6.977, JCR Q1
-2. **Xinrui Wang**, Hong Gao, Zhipeng Cai, Jianzhong Li. Leave or not leave? Group members’ departure prediction in dynamic information networks[J]. Information Sciences, 2021, 569: 138-156. SCI IF=6.795, JCR Q1
-3. **Xinrui Wang**, Hong Gao, et al. Detecting top-k active inter-community jumpers in dynamic information networks[C]//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2018: 538-546. CCF-B Conference
+1. **Xinrui Wang**, Hong Gao, Zhipeng Cai, Jianzhong Li. Who should deserve investment? Attractive individual and group search in dynamic information networks. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023, 35(2): 2158-2172. CCF-A Journal，SCI IF=6.977, JCR Q1
+2. **Xinrui Wang**, Hong Gao, Zhipeng Cai, Jianzhong Li. Leave or not leave? Group members’ departure prediction in dynamic information networks[J]. Information Sciences, 2021, 569: 138-156. CCF-B Journal，SCI IF=6.795, JCR Q1
+3. **Xinrui Wang**, Hong Gao, et al. Detecting top-k active inter-community jumpers in dynamic information networks[C]//International Conference on Database Systems for Advanced Applications (DASFAA). Springer, Cham, 2018: 538-546. CCF-B Conference
 4. **Xinrui Wang**, Hong Gao, Zhipeng Cai, Jianzhong Li. Who Should Deserve Investment? Attractive Individual and Group Search in Dynamic Information Networks (Extended Abstract).
-(IEEE 38th International Conference on Data Engineering (ICDE), 2022: 1481-1482. CCF-A Conference
+IEEE 38th International Conference on Data Engineering (ICDE), 2022: 1481-1482. CCF-A Conference
 <!--4. Xinrui Wang, Hong Gao, Zhipeng Cai, Jianzhong Li. Who Should Deserve Investment? Attractive Individual and Group Search in Dynamic Information Networks (Extended Abstract).
 (IEEE 38th International Conference on Data Engineering (ICDE), 2022: 1481-1482. CCF-A Conference--> 
 
@@ -77,7 +77,8 @@ Teaching
 
 Academic Position
 ------
-CCF数据库专委会执行委员
+- CCF数据库专委会执行委员
+- 参与评审KDD，WSDM，Data Sci. Eng.，TKDD，DASFAA，Big Data Mining and Analytics，软件学报等会议和期刊论文。
 
 
 
